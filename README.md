@@ -1,4 +1,4 @@
-<center><img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"></center>
+<center><img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" align="center"></center>
 <h1 align="center">Hi 👋, I'm Jibril Dauda Muhammad</h1>
 <h3 align="center">A Fullstack developer from Nigeria</h3>
 
