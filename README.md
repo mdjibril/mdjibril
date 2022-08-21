@@ -64,6 +64,6 @@
 
 <p></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdjibril&show_icons=true&locale=en&layout=compact" alt="mdjibril" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdjibril&show_icons=true&locale=en&layout=compact" alt="mdjibril" /></p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdjibril" alt="mdjibril" /></a> </p> -->
