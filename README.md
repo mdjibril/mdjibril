@@ -56,10 +56,11 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdjibril&show_icons=true&locale=en&layout=compact" alt="mdjibril" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdjibril&show_icons=true&locale=en" alt="mdjibril" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdjibril&" alt="mdjibril" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdjibril&show_icons=true&locale=en&layout=compact" alt="mdjibril" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdjibril" alt="mdjibril" /></a> </p>
