@@ -59,9 +59,9 @@
 
 
 <h3 align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdjibril&show_icons=true&locale=en" alt="mdjibril" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdjibril&show_icons=true&locale=en" alt="mdjibril"  width="40%"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdjibril&" alt="mdjibril" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdjibril&" alt="mdjibril" width="40%"/>
 </h3>
 
 <p>
