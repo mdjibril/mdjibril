@@ -58,10 +58,10 @@
 </p>
 
 
-<p>&nbsp;
+<h3 align="center">&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdjibril&show_icons=true&locale=en" alt="mdjibril" /> 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdjibril&" alt="mdjibril" />
-</p>
+</h3>
 
 <p>
 </p>
