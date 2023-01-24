@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdjibril&label=Profile%20views&color=0e75b6&style=flat" alt="mdjibril" /> </p>
 
-- 🔭 I’m currently working on [CONFETTI](https://github.com/mdjibril/confetti-agency-website)
+- 🔭 I’m currently working on [BLACK TELEGRAPH](https://github.com/mdjibril/website-black-telegraph)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Laravel**
 
 - 👯 I’m looking to collaborate on [KOMPANION](https://github.com/mdjibril/Kompanion)
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/mdjibril](github.com/mdjibril)
 
-- 📝 I regularly write articles on [https://dev.to/mdjibril](https://dev.to/mdjibril)
+- 📝 I occasionally write articles on [https://dev.to/mdjibril](https://dev.to/mdjibril)
 
 - 💬 Ask me about **php, laravel**
 
