@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [KOMPANION](https://github.com/mdjibril/Kompanion)
 
-- 🤝 I’m looking for help with [REACT](https://github.com/mdjibril/Kompanion)
+- 🤝 I’m looking for help with [REACT on Kompanion](https://github.com/mdjibril/Kompanion)
 
 - 👨‍💻 All of my projects are available at [github.com/mdjibril](github.com/mdjibril)
 
