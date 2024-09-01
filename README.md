@@ -6,7 +6,7 @@
 
 <!-- - 🔭 I’m currently working on [BLACK TELEGRAPH](https://github.com/mdjibril/website-black-telegraph) -->
 
-- 🌱 I’m honing my skill in  **Javascript**
+- 🌱 I’m honing my skill
 
 <!-- - 👯 I’m looking to collaborate on [KOMPANION](https://github.com/mdjibril/Kompanion) -->
 
