@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif" alt="banner" width="100%" /></h1>
 
 <h1 align="center">Hi 👋, I'm Jibril Dauda Muhammad</h1>
-<h3 align="center">Fullstack Developer • Web Enthusiast • Problem Solver</h3>
+<h3 align="center">Fullstack Developer | PHP | JavaScript | MySQL</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mdjibril&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -15,18 +15,30 @@
 
 ### About Me
 
-- 🌱 I’m continuously improving my skills in web development and building practical solutions.
-- 👨‍💻 My work and projects are shared on [GitHub](https://github.com/mdjibril).
-- 📝 I occasionally publish technical articles on [Dev.to](https://dev.to/mdjibril).
-- 💬 I enjoy discussing backend and frontend web development, especially with PHP.
+- 🌱 I’m a fullstack developer focused on building practical, maintainable, and user-friendly web applications.
+- 👨‍💻 My work and projects are shared publicly on [GitHub](https://github.com/mdjibril).
+- 📝 I occasionally write and share technical content on [Dev.to](https://dev.to/mdjibril).
+- 💬 I enjoy solving real-world problems through clear, efficient, and well-structured web development.
 - 📫 Reach me at: muhammadjibrildauda@gmail.com
 - 📄 Connect with me professionally on [LinkedIn](https://www.linkedin.com/in/mdjibril/)
 
-### Current Focus
+### Featured Projects
 
-- Building polished, user-friendly web experiences.
-- Strengthening my fullstack workflow across frontend, backend, and deployment.
-- Exploring meaningful GitHub contributions and portfolio presentation.
+- [Black Telegraph](https://github.com/mdjibril/website-black-telegraph) — a web project focused on delivering a polished and functional user experience.
+- [Kompanion](https://github.com/mdjibril/Kompanion) — collaborative product work that reflects my problem-solving and development mindset.
+- [GitHub Portfolio](https://github.com/mdjibril) — a public collection of my ongoing work, experiments, and contributions.
+
+### Currently Building
+
+- Cleaner, more professional portfolio-style web experiences.
+- Stronger fullstack workflows across frontend, backend, and deployment.
+- A more recruiter-friendly GitHub presence that presents my work clearly.
+
+### Professional Highlights
+
+- Fullstack development experience with PHP, HTML, CSS, JavaScript, Bootstrap, Git, and MySQL.
+- Focus on responsive interfaces, structured backend logic, and user-centered product delivery.
+- Strong interest in building practical solutions and presenting work in a clear, professional way.
 
 ### Connect with Me
 
@@ -52,10 +64,14 @@
 
 ### GitHub Snapshot
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdjibril&show_icons=true&locale=en" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdjibril&show_icons=true&locale=en&layout=compact" alt="Top languages" width="48%" />
+<p align="left">
+  <img src="https://img.shields.io/github/followers/mdjibril?style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/mdjibril?style=social" alt="Stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/mdjibril&color=181717&style=flat-square" alt="Public repositories" />
 </p>
 
-> This profile is now positioned as a cleaner, more current portfolio-style README that highlights your identity, current focus, and public activity more clearly.
+<p align="left">
+  <img src="https://img.shields.io/badge/Top%20Languages-PHP%20%7C%20JavaScript%20%7C%20HTML-0e75b6?style=flat-square" alt="Top languages" />
+  <img src="https://img.shields.io/badge/Contribution%20Style-Open%20Source-4CAF50?style=flat-square" alt="Open Source" />
+</p>
 
