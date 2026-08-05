@@ -79,9 +79,10 @@ I specialize in Next.js, React, Laravel, PHP, Python, and Supabase, with a stron
 ### GitHub Stats
 
 <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mdjibril&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/mdjibril?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
   <img src="https://img.shields.io/github/stars/mdjibril?style=for-the-badge&logo=github&label=Stars" alt="Stars" />
-  <img src="https://img.shields.io/badge/Public%20Repos-Open-181717?style=for-the-badge&logo=github" alt="Public Repositories" />
+  <img src="https://img.shields.io/badge/Public%20Repos-Available-181717?style=for-the-badge&logo=github" alt="Public Repositories" />
 </p>
 
 <p align="left">
@@ -91,7 +92,7 @@ I specialize in Next.js, React, Laravel, PHP, Python, and Supabase, with a stron
 
 <p align="left">
   <img src="https://img.shields.io/badge/Profile-Active%20Developer-FF6B35?style=for-the-badge" alt="Profile activity" />
-  <img src="https://img.shields.io/badge/Focus-Full-Stack%20Engineering-7952B3?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Fullstack%20Engineering-7952B3?style=for-the-badge" alt="Focus" />
 </p>
 
 ### Connect With Me
