@@ -64,9 +64,9 @@ I specialize in Next.js, React, Laravel, PHP, Python, and Supabase, with a stron
 | Project | Description | Tech | Status |
 |---|---|---|---|
 | [National Occupational Standards Framework](https://github.com/mdjibril/national-occupational-standard-framework) | Open-source framework that converts National Occupational Standards (NOS) into structured JSON datasets for competency-based applications. | Python · JSON · Open Source | Production |
-| [Waypoint Travel Management System](https://github.com/mdjibril/waypoint-travel-management-system) | Production workflow platform for managing travel applications through configurable pipeline stages. | Next.js · React · Supabase | Production |
-| [Professional NSQ Report Generator](https://github.com/mdjibril/professional-nsq-report-generator) | AI-powered platform for generating NSQ and NBTE compliant assessment reports. | Python · JavaScript · Supabase · Railway | Production |
-| [Nigerian Saudi Chamber Portal](https://github.com/mdjibril/nigerian-saudi-chamber-portal) | Official business portal supporting trade and investment opportunities between Nigeria and Saudi Arabia. | Vite.js · JavaScript · MySQL | Production |
+| [Waypoint Travel Management System](https://waypointtravellimited.com) | Production workflow platform for managing travel applications through configurable pipeline stages. | Next.js · React · Supabase | Production |
+| [Professional NSQ Report Generator](https://nsqassessment.com.ng) | AI-powered platform for generating NSQ and NBTE compliant assessment reports. | Python · JavaScript · Supabase · Railway | Production |
+| [Nigerian Saudi Chamber Portal](https://nigeriansaudichamber.com) | Official business portal supporting trade and investment opportunities between Nigeria and Saudi Arabia. | Vite.js · JavaScript · MySQL | Production |
 
 ### Currently Building
 
@@ -78,18 +78,20 @@ I specialize in Next.js, React, Laravel, PHP, Python, and Supabase, with a stron
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdjibril&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdjibril&layout=compact&hide_border=true" alt="Top Languages" width="48%" />
+<p align="left">
+  <img src="https://img.shields.io/github/followers/mdjibril?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/mdjibril?style=for-the-badge&logo=github&label=Stars" alt="Stars" />
+  <img src="https://img.shields.io/badge/Public%20Repos-Open-181717?style=for-the-badge&logo=github" alt="Public Repositories" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdjibril&hide_border=true" alt="Contribution Streak" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-summary?username=mdjibril&theme=default" alt="Profile Summary" width="48%" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Top%20Languages-Python%20%7C%20PHP%20%7C%20JavaScript-0A66C2?style=for-the-badge" alt="Top languages" />
+  <img src="https://img.shields.io/badge/Contribution%20Style-Open%20Source-34A853?style=for-the-badge" alt="Contribution style" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdjibril&hide_border=true" alt="Activity Graph" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Profile-Active%20Developer-FF6B35?style=for-the-badge" alt="Profile activity" />
+  <img src="https://img.shields.io/badge/Focus-Full-Stack%20Engineering-7952B3?style=for-the-badge" alt="Focus" />
 </p>
 
 ### Connect With Me
