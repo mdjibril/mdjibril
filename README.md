@@ -1,77 +1,108 @@
-<h1 align="center"><img src="https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif" alt="banner" width="100%" /></h1>
+<h1 align="center">Jibril Dauda Muhammad</h1>
+<h3 align="center">Full-Stack Software Engineer</h3>
 
-<h1 align="center">Hi 👋, I'm Jibril Dauda Muhammad</h1>
-<h3 align="center">Fullstack Developer | PHP | JavaScript | MySQL</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mdjibril&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Location-Nigeria-0e75b6?style=flat-square" alt="Nigeria" />
-  <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-ff6b6b?style=flat-square" alt="Fullstack Development" />
-  <img src="https://img.shields.io/badge/Stack-PHP%20%7C%20HTML%20%7C%20CSS%20%7C%20JavaScript-4CAF50?style=flat-square" alt="Tech Stack" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Building%20Scalable%20Web%20Applications-0A66C2?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/AI-Powered%20Digital%20Solutions-34A853?style=for-the-badge" alt="AI" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-FF6B35?style=for-the-badge" alt="Open Source" />
 </p>
 
 ### About Me
 
-- 🌱 I’m a fullstack developer focused on building practical, maintainable, and user-friendly web applications.
-- 👨‍💻 My work and projects are shared publicly on [GitHub](https://github.com/mdjibril).
-- 📝 I occasionally write and share technical content on [Dev.to](https://dev.to/mdjibril).
-- 💬 I enjoy solving real-world problems through clear, efficient, and well-structured web development.
-- 📫 Reach me at: muhammadjibrildauda@gmail.com
-- 📄 Connect with me professionally on [LinkedIn](https://www.linkedin.com/in/mdjibril/)
+I design and build production-ready web applications that solve real business problems with reliable engineering. My work spans modern frontend systems, scalable backend services, and AI-assisted digital solutions.
+
+I specialize in Next.js, React, Laravel, PHP, Python, and Supabase, with a strong focus on clean architecture, maintainability, and delivery quality. I contribute to open source and continuously strengthen my software engineering practice through modern tools and workflows.
+
+### Tech Stack
+
+#### Frontend
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+#### Backend
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/REST%20API-4B5563?style=for-the-badge" alt="REST API" />
+</p>
+
+#### Database
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+</p>
+
+#### Cloud & DevOps
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+#### CMS
+
+<p align="left">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+</p>
 
 ### Featured Projects
 
-- [Black Telegraph](https://github.com/mdjibril/website-black-telegraph) — a web project focused on delivering a polished and functional user experience.
-- [Kompanion](https://github.com/mdjibril/Kompanion) — collaborative product work that reflects my problem-solving and development mindset.
-- [GitHub Portfolio](https://github.com/mdjibril) — a public collection of my ongoing work, experiments, and contributions.
+| Project | Description | Tech | Status |
+|---|---|---|---|
+| [National Occupational Standards Framework](https://github.com/mdjibril/national-occupational-standard-framework) | Open-source framework that converts National Occupational Standards (NOS) into structured JSON datasets for competency-based applications. | Python · JSON · Open Source | Production |
+| [Waypoint Travel Management System](https://github.com/mdjibril/waypoint-travel-management-system) | Production workflow platform for managing travel applications through configurable pipeline stages. | Next.js · React · Supabase | Production |
+| [Professional NSQ Report Generator](https://github.com/mdjibril/professional-nsq-report-generator) | AI-powered platform for generating NSQ and NBTE compliant assessment reports. | Python · JavaScript · Supabase · Railway | Production |
+| [Nigerian Saudi Chamber Portal](https://github.com/mdjibril/nigerian-saudi-chamber-portal) | Official business portal supporting trade and investment opportunities between Nigeria and Saudi Arabia. | Vite.js · JavaScript · MySQL | Production |
 
 ### Currently Building
 
-- Cleaner, more professional portfolio-style web experiences.
-- Stronger fullstack workflows across frontend, backend, and deployment.
-- A more recruiter-friendly GitHub presence that presents my work clearly.
+- AI-powered web applications
+- Full-stack SaaS platforms
+- Open-source developer tools
+- Modern Next.js applications
+- Workforce development solutions
 
-### Professional Highlights
+### GitHub Stats
 
-- Fullstack development experience with PHP, HTML, CSS, JavaScript, Bootstrap, Git, and MySQL.
-- Focus on responsive interfaces, structured backend logic, and user-centered product delivery.
-- Strong interest in building practical solutions and presenting work in a clear, professional way.
-
-### Connect with Me
-
-<p align="left">
-  <a href="https://dev.to/mdjibril" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
-  <a href="https://twitter.com/mdjbril_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/mdjibril" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/mdjibril" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/mdjibril" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdjibril&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdjibril&layout=compact&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
-### Tools & Technologies
-
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdjibril&hide_border=true" alt="Contribution Streak" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-summary?username=mdjibril&theme=default" alt="Profile Summary" width="48%" />
 </p>
 
-### GitHub Snapshot
-
-<p align="left">
-  <img src="https://img.shields.io/github/followers/mdjibril?style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/mdjibril?style=social" alt="Stars" />
-  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/mdjibril&color=181717&style=flat-square" alt="Public repositories" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdjibril&hide_border=true" alt="Activity Graph" />
 </p>
 
+### Connect With Me
+
+- Portfolio: [mdjibril.com.ng](https://mdjibril.com.ng)
+- LinkedIn: [linkedin.com/in/mdjibril](https://linkedin.com/in/mdjibril)
+- GitHub: [github.com/mdjibril](https://github.com/mdjibril)
+- Email: muhammadjibrildauda@gmail.com
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Top%20Languages-PHP%20%7C%20JavaScript%20%7C%20HTML-0e75b6?style=flat-square" alt="Top languages" />
-  <img src="https://img.shields.io/badge/Contribution%20Style-Open%20Source-4CAF50?style=flat-square" alt="Open Source" />
+  <a href="https://mdjibril.com.ng" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Website-0A66C2?style=flat-square&logo=webflow&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/mdjibril" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/mdjibril" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:muhammadjibrildauda@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
